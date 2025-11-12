@@ -1,0 +1,130 @@
+
+body{
+    background-color: #4a5759;
+}
+
+header{
+    margin-top: 125px;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    margin-bottom: 30px;
+    margin-left: 520px;
+    margin-right: 520px;
+    text-align: center;
+    background-color: #b0c4b1;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: larger;
+}
+
+h1{
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 2.5px #b0c4b1;
+    transition: transform 195ms
+}
+
+img:hover{
+    transform: scale(1.15);
+    transition: transform 195ms
+}
+
+p{
+    font-family: "Host Grotesk", sans-serif;
+    font-optical-sizing: auto;
+}
+.nextlink{
+    margin-top: 30px;
+    margin-left: 699px;
+    margin-right: 699px;
+    display: block;
+    background-color: #b0c4b1;
+    max-width: auto;
+    text-align: center;
+    color: black;
+    font-family: "Host Grotesk", sans-serif;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    font-size: larger;
+    text-decoration: none;
+    transition-duration: 195ms;
+
+}
+p3{
+    max-width: auto;
+    padding-left: 520px;
+    padding-right: 520px;
+    display: block;
+    font-family: "Host Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    padding-top: 15px;
+    color: white;
+    font-size: large;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+ul{
+    max-width: auto;
+    padding-left: 550px;
+    padding-right: 550px;
+    display: block;
+    font-family: "Host Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    padding-top: 10px;
+    color: white;
+    font-size: xx-large;
+    padding-top: 200px;
+    line-height: 1.75;
+    margin-bottom: 40px;
+}
+
+footer{
+    margin-top: 5px;
+    padding: 2px;
+    background-color: #b0c4b1;
+    border-top-left-radius: 7.5px;
+    border-bottom-left-radius: 7.5px;
+    border-top-right-radius: 7.5px;
+    border-bottom-right-radius: 7.5px;
+}
+
+a{
+    color: #06d6a0;
+    font-family: "Mozilla Text", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+a:hover{
+    color: #264653;
+}
+.nextlink:hover{
+    background-color: #2a9d8f;
+    transition-duration: 195ms;
+    transform: scale(1.15);
+}
+footer{
+    font-family: "Mozilla Text", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
